@@ -76,9 +76,6 @@ Editar
 
 ---
 
-Depois de criar o arquivo, manda o `git init`, `git add .`, `git commit -m "Add README.md"` e o push pra gente fechar essa jogada.
-
-Quer que eu te guie no passo a passo do Git?
 
 
 Autor
