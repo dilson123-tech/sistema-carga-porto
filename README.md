@@ -78,12 +78,6 @@ Editar
 
 
 
-Autor
-Dilson — estudante focado em Ciência da Computação e IA
-Contato: dilsonpereira231@gmail.com
-
-
-
 
 
 
