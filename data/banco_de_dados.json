@@ -1,0 +1,62 @@
+[
+    {
+        "codigo": "J8DPJH",
+        "destino": "São Paulo",
+        "peso": 960.02,
+        "data_cadastro": "2025-05-27 16:23:10"
+    },
+    {
+        "codigo": "8857BW",
+        "destino": "São Paulo",
+        "peso": 1268.88,
+        "data_cadastro": "2025-05-27 16:25:00"
+    },
+    {
+        "codigo": "TAXT4U",
+        "destino": "Rio de Janeiro",
+        "peso": 1416.47,
+        "data_cadastro": "2025-05-27 16:26:30"
+    },
+    {
+        "codigo": "ZS56Q0",
+        "destino": "Fortaleza",
+        "peso": 1413.73,
+        "data_cadastro": "2025-05-27 16:27:10"
+    },
+    {
+        "codigo": "6JL9RE",
+        "destino": "Rio de Janeiro",
+        "peso": 637.51,
+        "data_cadastro": "2025-05-27 16:28:20"
+    },
+    {
+        "codigo": "08DYXJ",
+        "destino": "Porto Alegre",
+        "peso": 907.96,
+        "data_cadastro": "2025-05-27 16:29:40"
+    },
+    {
+        "codigo": "E8QD3N",
+        "destino": "Salvador",
+        "peso": 1852.51,
+        "data_cadastro": "2025-05-27 16:30:50"
+    },
+    {
+        "codigo": "ZF8252",
+        "destino": "Manaus",
+        "peso": 683.78,
+        "data_cadastro": "2025-05-27 16:32:00"
+    },
+    {
+        "codigo": "ZYQCUJ",
+        "destino": "Porto Alegre",
+        "peso": 226.27,
+        "data_cadastro": "2025-05-27 16:33:15"
+    },
+    {
+        "codigo": "PZ59IJ",
+        "destino": "São Paulo",
+        "peso": 1634.46,
+        "data_cadastro": "2025-05-27 16:34:20"
+    }
+]

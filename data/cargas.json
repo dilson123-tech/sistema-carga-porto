@@ -1,0 +1,62 @@
+[
+    {
+        "codigo": "B6KF71",
+        "destino": "Porto Alegre",
+        "peso": 475.73,
+        "data_cadastro": "2025-05-27 17:53:28"
+    },
+    {
+        "codigo": "78AZ0A",
+        "destino": "São Paulo",
+        "peso": 1185.43,
+        "data_cadastro": "2025-05-27 17:53:28"
+    },
+    {
+        "codigo": "TC5SFW",
+        "destino": "Salvador",
+        "peso": 1196.38,
+        "data_cadastro": "2025-05-27 17:53:28"
+    },
+    {
+        "codigo": "TUYCTN",
+        "destino": "Manaus",
+        "peso": 1946.2,
+        "data_cadastro": "2025-05-27 17:53:28"
+    },
+    {
+        "codigo": "FR1CF1",
+        "destino": "Porto Alegre",
+        "peso": 1252.93,
+        "data_cadastro": "2025-05-27 17:53:28"
+    },
+    {
+        "codigo": "VRLDZ6",
+        "destino": "Rio de Janeiro",
+        "peso": 819.94,
+        "data_cadastro": "2025-05-27 17:53:28"
+    },
+    {
+        "codigo": "Q1GBB6",
+        "destino": "Rio de Janeiro",
+        "peso": 446.13,
+        "data_cadastro": "2025-05-27 17:53:28"
+    },
+    {
+        "codigo": "5MH0V2",
+        "destino": "Rio de Janeiro",
+        "peso": 1535.68,
+        "data_cadastro": "2025-05-27 17:53:28"
+    },
+    {
+        "codigo": "DB930G",
+        "destino": "Fortaleza",
+        "peso": 1786.14,
+        "data_cadastro": "2025-05-27 17:53:28"
+    },
+    {
+        "codigo": "XGPKV4",
+        "destino": "Fortaleza",
+        "peso": 1108.94,
+        "data_cadastro": "2025-05-27 17:53:28"
+    }
+]
